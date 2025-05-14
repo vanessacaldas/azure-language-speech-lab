@@ -1,2 +1,0 @@
-
-anotacoes_language.md
