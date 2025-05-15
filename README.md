@@ -22,14 +22,10 @@ Este repositório documenta um projeto prático **baseado no laboratório da DIO
 - **Intenção**: Objetivo do usuário ao falar (ex: pedir informação, fazer reclamação).
 
 ### 2. **Análise de Texto com Language Studio**
-Exemplo analisado:
-> **Texto**: "Passei férias maravilhosa na França."  
-> - Idioma detectado: **Português**  
-> - Sentimento: **Positivo (0.88)**  
-> - Frase-chave: `"férias maravilhosa"`  
-> - Entidade: `"França"` (Localização)  
+- Com essa ferramenta, é possível aplicar inteligência artificial para detectar **idioma**, classificar o **sentimento**, identificar **frases-chave** e reconhecer **Entidade** relevantes partir de um texto.
+Essas funcionalidades são úteis para análise de feedbacks, classificação automática de textos e extração de dados em larga escala, permitindo que empresas extraiam insights de grandes volumes de dados de forma rápida e eficiente, gerando valor estratégico para decisões de negócio.
 
-Essas análises ajudam empresas a coletar insights de feedbacks, redes sociais, atendimentos etc.
+---
 
 ### 3. **Reconhecimento e Síntese de Fala com Speech Studio**
 - **Reconhecimento de fala**: Converte voz em texto.
@@ -104,4 +100,4 @@ Esse projeto me ajudou a consolidar conceitos teóricos de forma prática, refor
 ## Créditos
 
 - Curso: **DIO - Análise de Sentimentos com Azure AI**
-- Conteúdo e imagem elaborados com auxílio do **ChatGPT (OpenAI)**
+- Conteúdo e imagem elaborados com auxílio do **Adobe firefly**
