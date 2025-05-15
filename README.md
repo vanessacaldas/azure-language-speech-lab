@@ -45,18 +45,6 @@ Essas análises ajudam empresas a coletar insights de feedbacks, redes sociais, 
 - **Turismo e atendimento ao cliente** com análise de sentimentos e entidades.
 - **Acessibilidade**, com leitura de textos para pessoas com deficiência visual.
 
----
-
-## Representação Visual (Simulada)
-![Imagem 1](images/captura1.png)
-
-Essa imagem mostra a integração da IA  com múltiplos canais (compreensão de linguagem).
-> 🧠 simboliza a IA processando linguagem natural e se conectando com:
-- **E-mail**
-- **Chatboots**
-- **Conversas automatizadas**
-- **Leitura em voz alta - Acessibilidade**
-
 
 ---
 
