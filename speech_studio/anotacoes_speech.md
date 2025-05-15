@@ -12,9 +12,20 @@ Uma ferramenta da Microsoft Azure que permite:
 
 ## Casos de uso
 
-- **Acessibilidade**: Leitura em voz alta de textos para pessoas cegas.
+- **Acessibilidade**: Leitura em voz alta de textos para pessoas com deficiêcia visual.
 - **Chatbots com voz**: Assistentes virtuais falantes.
 - **Atendimento automatizado**: Substituir ligações manuais por vozes sintéticas.
+
+---
+
+## Representação Visual (Simulada)
+![Imagem 1](images/captura1.png)
+
+Essa imagem mostra a integração da IA  com múltiplos canais (compreensão de linguagem).
+> 🧠 simboliza a IA processando linguagem natural e se conectando com:
+- **E-mail**
+- **Chatbots**
+- **Conversas automatizadas**
 
 ---
 
